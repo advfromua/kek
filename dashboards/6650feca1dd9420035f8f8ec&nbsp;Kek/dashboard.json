@@ -1,0 +1,37 @@
+{
+    "dataExploration": false,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aKek",
+        "fullname": "localhost/Kek",
+        "id": "localhost_aKek",
+        "live": false,
+        "title": "Kek"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "6650feca1dd9420035f8f8ec",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "title": "Kek",
+    "widgets": [
+        "./widgets/6650fedb1dd9420035f8f8ee/widget.json"
+    ]
+}

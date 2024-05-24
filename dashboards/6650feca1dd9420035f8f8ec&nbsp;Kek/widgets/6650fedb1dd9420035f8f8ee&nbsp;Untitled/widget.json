@@ -1,0 +1,99 @@
+{
+    "_toDisableOptionsList": {
+        "widgets": {
+            "duplicate": false
+        }
+    },
+    "dashboardid": "6650feca1dd9420035f8f8ec",
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aKek",
+        "fullname": "localhost/Kek",
+        "id": "localhost_aKek",
+        "live": false,
+        "title": "Kek"
+    },
+    "desc": null,
+    "metadata": {
+        "ignore": {
+            "all": false,
+            "dimensions": [
+            ],
+            "ids": [
+            ]
+        },
+        "panels": [
+            {
+                "items": [
+                    {
+                        "field": {
+                            "id": "[Brand.Brand]",
+                            "index": 0
+                        },
+                        "format": {
+                            "members": {
+                            }
+                        },
+                        "instanceid": "47990-170E-C4",
+                        "jaql": {
+                            "column": "Brand",
+                            "datatype": "text",
+                            "dim": "[Brand.Brand]",
+                            "merged": true,
+                            "table": "Brand",
+                            "title": "Brand"
+                        }
+                    }
+                ],
+                "name": "categories"
+            },
+            {
+                "items": [
+                ],
+                "name": "values"
+            },
+            {
+                "items": [
+                ],
+                "name": "filters"
+            }
+        ],
+        "usedFormulasMapping": {
+        }
+    },
+    "oid": "6650fedb1dd9420035f8f8ee",
+    "options": {
+        "autoUpdateOnEveryChange": true,
+        "dashboardFiltersMode": "select",
+        "drillToAnywhere": true,
+        "selector": true,
+        "triggersDomready": true
+    },
+    "style": {
+        "convolution": {
+            "enabled": true,
+            "independentSlicesCount": 7,
+            "minimalIndependentSlicePercentage": 3,
+            "selectedConvolutionType": "byPercentage"
+        },
+        "dataLimits": {
+            "seriesCapacity": 100000
+        },
+        "labels": {
+            "categories": true,
+            "color": "red",
+            "decimals": false,
+            "enabled": true,
+            "fontFamily": "Open Sans",
+            "percent": true,
+            "value": false
+        },
+        "legend": {
+            "enabled": false,
+            "position": "left"
+        }
+    },
+    "subtype": "pie/classic",
+    "title": "",
+    "type": "chart/pie"
+}

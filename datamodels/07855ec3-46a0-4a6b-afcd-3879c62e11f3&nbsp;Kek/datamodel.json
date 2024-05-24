@@ -1,0 +1,36 @@
+{
+    "buildDestination": {
+        "database": null,
+        "destination": "elasticube"
+    },
+    "datasets": [
+        "./12dc742c-a07a-441f-affa-f2a770232693/dataset.json",
+        "./414d8dea-7c64-41b2-b4c7-c75f44037778/dataset.json",
+        "./425c4803-4000-49d8-93cc-2e2b302e03c3/dataset.json",
+        "./882f3d41-4308-4e43-8f2a-c2f2dd53519f/dataset.json"
+    ],
+    "dependencies": {
+        "perspectives": [
+            "./07855ec3-46a0-4a6b-afcd-3879c62e11f3/perspective.json"
+        ]
+    },
+    "experiments": {
+    },
+    "fiscal": "system",
+    "hierarchies": [
+    ],
+    "modelStatistics": {
+        "enableModelStatistics": true,
+        "maxTablesPerCollection": 0,
+        "recollectStatsInterval": 0
+    },
+    "oid": "07855ec3-46a0-4a6b-afcd-3879c62e11f3",
+    "relationType": "regular",
+    "relations": "./relations.json",
+    "relationsTables": [
+    ],
+    "schemaId": null,
+    "shouldUpdateScheduleOnManualBuild": null,
+    "title": "Kek",
+    "type": "extract"
+}

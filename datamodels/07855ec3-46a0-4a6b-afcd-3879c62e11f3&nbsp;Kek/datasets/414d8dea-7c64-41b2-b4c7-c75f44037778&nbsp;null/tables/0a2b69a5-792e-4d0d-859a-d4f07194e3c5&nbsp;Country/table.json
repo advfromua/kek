@@ -1,0 +1,43 @@
+{
+    "buildBehavior": {
+        "type": "sync"
+    },
+    "columns": [
+        {
+            "hidden": false,
+            "id": "Country",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Country",
+            "oid": "cb5cefcc-c099-4f84-8449-47dd634e7e4f",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Country ID",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Country ID",
+            "oid": "d44a9135-32ef-48c3-bdf7-0fdb3d858954",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        }
+    ],
+    "configOptions": {
+        "Table": "Country.csv"
+    },
+    "dataset": "414d8dea-7c64-41b2-b4c7-c75f44037778",
+    "hidden": false,
+    "id": "Country.csv",
+    "isMaterialized": false,
+    "name": "Country",
+    "oid": "0a2b69a5-792e-4d0d-859a-d4f07194e3c5",
+    "tupleTransformations": [
+    ],
+    "type": "base"
+}

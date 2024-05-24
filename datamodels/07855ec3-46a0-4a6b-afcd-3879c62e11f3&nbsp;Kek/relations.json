@@ -1,0 +1,56 @@
+[
+    {
+        "columns": [
+            {
+                "column": "0abcfed0-ec88-45a2-b0c2-e4808007f8b9",
+                "dataset": "425c4803-4000-49d8-93cc-2e2b302e03c3",
+                "isDropped": null,
+                "table": "31c7b7d4-c994-44cd-9c84-736a773ef6b5"
+            },
+            {
+                "column": "b9305224-ba13-4f11-a6fb-0155b800b1b6",
+                "dataset": "12dc742c-a07a-441f-affa-f2a770232693",
+                "isDropped": null,
+                "table": "10677661-15d8-4bd5-a3fc-d1cd7e36664d"
+            }
+        ],
+        "elasticube": "07855ec3-46a0-4a6b-afcd-3879c62e11f3",
+        "oid": "9fd74042-c61c-44f0-a1c7-7ffbec25a86c"
+    },
+    {
+        "columns": [
+            {
+                "column": "d44a9135-32ef-48c3-bdf7-0fdb3d858954",
+                "dataset": "414d8dea-7c64-41b2-b4c7-c75f44037778",
+                "isDropped": null,
+                "table": "0a2b69a5-792e-4d0d-859a-d4f07194e3c5"
+            },
+            {
+                "column": "09357f88-b583-45b8-984b-0e992637121d",
+                "dataset": "12dc742c-a07a-441f-affa-f2a770232693",
+                "isDropped": null,
+                "table": "10677661-15d8-4bd5-a3fc-d1cd7e36664d"
+            }
+        ],
+        "elasticube": "07855ec3-46a0-4a6b-afcd-3879c62e11f3",
+        "oid": "3ecf6305-ac0a-4e1d-a5ce-646f93b511bb"
+    },
+    {
+        "columns": [
+            {
+                "column": "91048aed-ac29-492f-847b-403cc2e59d89",
+                "dataset": "882f3d41-4308-4e43-8f2a-c2f2dd53519f",
+                "isDropped": null,
+                "table": "f4c2dd85-e046-4a17-bebe-db2b7586364e"
+            },
+            {
+                "column": "47a16b2a-80cf-4f83-ac59-53ab9ffbf521",
+                "dataset": "12dc742c-a07a-441f-affa-f2a770232693",
+                "isDropped": null,
+                "table": "10677661-15d8-4bd5-a3fc-d1cd7e36664d"
+            }
+        ],
+        "elasticube": "07855ec3-46a0-4a6b-afcd-3879c62e11f3",
+        "oid": "04e030d0-479c-494e-9846-53bddccfb1df"
+    }
+]

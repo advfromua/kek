@@ -1,0 +1,151 @@
+{
+    "buildBehavior": {
+        "type": "sync"
+    },
+    "columns": [
+        {
+            "hidden": false,
+            "id": "Age Range",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Age Range",
+            "oid": "44e3eca8-494b-4524-a2d9-69d874f3b420",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Cost",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Cost",
+            "oid": "1e59bd68-a7a8-4044-b1cf-e42ec75cdbef",
+            "precision": 16,
+            "scale": 16,
+            "size": 50,
+            "type": 5
+        },
+        {
+            "hidden": false,
+            "id": "Brand ID",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Brand ID",
+            "oid": "47a16b2a-80cf-4f83-ac59-53ab9ffbf521",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "Category ID",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Category ID",
+            "oid": "b9305224-ba13-4f11-a6fb-0155b800b1b6",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "Condition",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Condition",
+            "oid": "ebc3fecd-50fe-4c55-a971-e1d5b113fcfe",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Country ID",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Country ID",
+            "oid": "09357f88-b583-45b8-984b-0e992637121d",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "Date",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Date",
+            "oid": "01a4d33b-0f39-4834-a4d7-21f6a51ccf48",
+            "precision": 0,
+            "scale": 0,
+            "size": 8,
+            "type": 4
+        },
+        {
+            "hidden": false,
+            "id": "Gender",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Gender",
+            "oid": "e6a7e9b3-9241-4c67-9982-c701555014b8",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Quantity",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Quantity",
+            "oid": "9d408605-0d88-4b49-ab3f-ec509cadaf9c",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "Revenue",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Revenue",
+            "oid": "a0bb45d4-8eef-41ea-b9d7-50ed5341ec75",
+            "precision": 16,
+            "scale": 16,
+            "size": 50,
+            "type": 5
+        },
+        {
+            "hidden": false,
+            "id": "Visit ID",
+            "indexed": false,
+            "isUpsertBy": false,
+            "name": "Visit ID",
+            "oid": "ccbdbb31-e869-4791-a613-2571d232d222",
+            "precision": 0,
+            "scale": 0,
+            "size": 50,
+            "type": 8
+        }
+    ],
+    "configOptions": {
+        "Table": "Commerce.csv"
+    },
+    "dataset": "12dc742c-a07a-441f-affa-f2a770232693",
+    "hidden": false,
+    "id": "Commerce.csv",
+    "isMaterialized": false,
+    "name": "Commerce",
+    "oid": "10677661-15d8-4bd5-a3fc-d1cd7e36664d",
+    "tupleTransformations": [
+    ],
+    "type": "base"
+}
